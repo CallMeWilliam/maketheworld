@@ -1,7 +1,7 @@
 Creating a Budget
 =================
 
-1. First, navigate to your budget panel.  You can only do this on the root identity of your account (the one you log into with your email address).  Go to
+1. First, navigate to your budget panel in AWS.  You can only do this on the root identity of your AWS account (the one you log into with your email address).  Go to
 the upper right side, and you should see an account menu item, which you can click to get several options (see below).  Select "My Billing Dashboard".
 
 ![Options menu](Step1.jpg)
